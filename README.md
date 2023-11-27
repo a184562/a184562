@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kim%20MinSik&fontSize=90)
 
 <p align="center">
-  <img src="https://github.com/a184562/a184562/assets/122436475/63ecb182-9be7-4296-ad25-26226826c20b" height="100px" width="300px">
-  <img src="https://github.com/a184562/a184562/assets/122436475/244d16b0-62a5-44f9-a0ac-6253d4f14abb" height="100px" width="300px">
+  <img src="https://github.com/a184562/a184562/assets/122436475/63ecb182-9be7-4296-ad25-26226826c20b" height="450px" width="600px">
+  <img src="https://github.com/a184562/a184562/assets/122436475/244d16b0-62a5-44f9-a0ac-6253d4f14abb" height="450px" width="600px">
 </p>
 
 ## 정보
